@@ -1,0 +1,7 @@
+C:\Users\SALA 404\Desktop\POOI JP\primer ensayo\primer ensa\primer ensa\bin\Debug\primer ensa.exe.config
+C:\Users\SALA 404\Desktop\POOI JP\primer ensayo\primer ensa\primer ensa\bin\Debug\primer ensa.exe
+C:\Users\SALA 404\Desktop\POOI JP\primer ensayo\primer ensa\primer ensa\bin\Debug\primer ensa.pdb
+C:\Users\SALA 404\Desktop\POOI JP\primer ensayo\primer ensa\primer ensa\obj\Debug\primer ensa.csproj.AssemblyReference.cache
+C:\Users\SALA 404\Desktop\POOI JP\primer ensayo\primer ensa\primer ensa\obj\Debug\primer ensa.csproj.CoreCompileInputs.cache
+C:\Users\SALA 404\Desktop\POOI JP\primer ensayo\primer ensa\primer ensa\obj\Debug\primer ensa.exe
+C:\Users\SALA 404\Desktop\POOI JP\primer ensayo\primer ensa\primer ensa\obj\Debug\primer ensa.pdb
